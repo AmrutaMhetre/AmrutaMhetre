@@ -1,5 +1,5 @@
 <h1 align="center" style="justify-content: center;">Hello 👋, I'm Amruta Mhetre</h1>
-<h3 align="center" style="justify-content: center;">Final Year BTech (CSIT) student with a passion for achieving results and working with teams. Also a quick learner and good at understanding new concepts. Seeking an opportunity in the engineering industry to grasp my skills where I can contribute to interesting projects and continue to develop my skills. Skilled in java programming and Web Development.</h3>
+<h3 style="justify-content: center;">Final Year BTech (CSIT) student with a passion for achieving results and working with teams. Also a quick learner and good at understanding new concepts. Seeking an opportunity in the engineering industry to grasp my skills where I can contribute to interesting projects and continue to develop my skills. Skilled in java programming and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrutamhetre&label=Profile%20views&color=0e75b6&style=flat" alt="amrutamhetre" /> </p>
 
