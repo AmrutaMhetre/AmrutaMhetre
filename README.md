@@ -1,4 +1,6 @@
-<img width="500" align="center" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<p align="center">
+    <img width="500" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif">
+</p>
 <h1 align="center" style="justify-content: center;">Hello 👋, I'm Amruta Mhetre</h1>
 <h3 style="justify-content: center;">Final Year BTech (CSIT) student with a passion for achieving results and working with teams. Also a quick learner and good at understanding new concepts. Seeking an opportunity in the engineering industry to grasp my skills where I can contribute to interesting projects and continue to develop my skills. Skilled in java programming and Web Development.</h3>
 
