@@ -28,7 +28,7 @@
     <li>I'm always happy to explore new tech ideas and opportunities. If you're interested in working together, discussing solutions, or sharing insights, please feel free to reach out. Let’s see how we can make something great together!
     </li><br>
     <li>📩 How to reach me : <a href="">amrutamhetre5221@gmail.com</a></li>
-</ul>
+</ul><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amruta-mhetre-5456bb273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amruta-mhetre-5456bb273/" height="30" width="40" /></a>
